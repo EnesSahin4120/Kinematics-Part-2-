@@ -1,9 +1,5 @@
 # Kinematics-Part-2-
-Cannon Ball Physics
-
-![ezgif-2-fa34a4e7ac](https://user-images.githubusercontent.com/65425355/181239788-51054e31-d33c-4d26-a19f-8ea1fe74b23c.gif)
-
-Cannon Ball With Wind Drag
+Cannon Ball Physics with Wind Drag
 
 ![ezgif-4-52b694719c](https://user-images.githubusercontent.com/65425355/183986909-c8a79b8e-74b6-4be7-82bf-b4478edcbea5.gif)
 
